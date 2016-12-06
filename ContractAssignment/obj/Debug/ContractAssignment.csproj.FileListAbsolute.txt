@@ -1,0 +1,10 @@
+c:\users\nikolai\documents\visual studio 2015\Projects\ContractAssignment\ContractAssignment\bin\Debug\ContractAssignment.exe.config
+c:\users\nikolai\documents\visual studio 2015\Projects\ContractAssignment\ContractAssignment\bin\Debug\ContractAssignment.exe
+c:\users\nikolai\documents\visual studio 2015\Projects\ContractAssignment\ContractAssignment\bin\Debug\ContractAssignment.pdb
+c:\users\nikolai\documents\visual studio 2015\Projects\ContractAssignment\ContractAssignment\obj\Debug\ContractAssignment.csprojResolveAssemblyReference.cache
+c:\users\nikolai\documents\visual studio 2015\Projects\ContractAssignment\ContractAssignment\obj\Debug\ContractAssignment.rewritten
+c:\users\nikolai\documents\visual studio 2015\Projects\ContractAssignment\ContractAssignment\obj\Debug\ContractAssignment.exe
+c:\users\nikolai\documents\visual studio 2015\Projects\ContractAssignment\ContractAssignment\obj\Debug\ContractAssignment.pdb
+c:\users\nikolai\documents\visual studio 2015\Projects\ContractAssignment\ContractAssignment\obj\Debug\Decl\ContractAssignment.exe
+c:\users\nikolai\documents\visual studio 2015\Projects\ContractAssignment\ContractAssignment\obj\Debug\Decl\ContractAssignment.pdb
+c:\users\nikolai\documents\visual studio 2015\Projects\ContractAssignment\ContractAssignment\obj\Debug\CodeContractAnalysisRun.log
